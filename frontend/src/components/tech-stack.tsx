@@ -7,7 +7,6 @@ import {
   Globe, 
   Smartphone, 
   Cloud,
-  GitBranch,
   Brain
 } from 'lucide-react'
 
