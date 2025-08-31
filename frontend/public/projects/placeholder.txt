@@ -1,0 +1,13 @@
+This directory contains project images for the portfolio.
+
+To add actual project images:
+1. Replace these placeholder files with real project screenshots
+2. Use formats like .jpg, .png, or .webp
+3. Recommended size: 600x400px for best display
+4. File names should match those referenced in the projects data
+
+Current project images needed:
+- elderly-care.png (Accenture Hackathon project)
+- transpiler.jpg (AI Code Converter)
+- varnanetra.jpg (Language Learning Platform)
+- hate-speech.jpg (Hate Speech Detection)

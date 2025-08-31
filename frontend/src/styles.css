@@ -1,0 +1,6 @@
+:root{--bg:#06070a;--accent:#00ff9f;--amber:#ffbf00}
+html,body,#root{height:100%;margin:0;background:var(--bg);color:#b9ffb9;font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', monospace}
+.terminal{max-width:900px;margin:3rem auto;border:1px solid rgba(0,255,159,0.08);padding:1rem;border-radius:8px}
+.terminal-screen{min-height:240px;background:linear-gradient(180deg,#001219 0%, #041014 100%);padding:1rem;border-radius:6px;overflow:auto}
+.prompt{color:var(--amber);margin-right:0.5rem}
+input{background:transparent;border:none;color:inherit;outline:none;width:60%}
